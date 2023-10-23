@@ -1,0 +1,29 @@
+
+header {
+
+    
+}
+
+body{
+    font-family: serif;
+    background: url(./image.pnj/pen-4337524_640.jpg) center/cover;
+    min-width: 10-vh;
+
+}
+
+
+h1{
+    text-transform: uppercase;          /*  pour mettre le text en majuscule */
+    letter-spacing: 3px;                /*  espacement de lettre */
+    text-align: center;                 /*  position du texte */
+    font-size: 2.5rem;                  /*  taille de police en rem */
+    text-shadow: 3px 3px 8px rgb(175, 162, 162);         /*  ombre */
+    color: brown;
+    text-decoration: underline;         /*  soulignement */
+    font-family: Arial, Helvetica ;     /*  type de police */
+
+
+
+}
+
+
